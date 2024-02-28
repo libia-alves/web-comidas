@@ -39,7 +39,7 @@ html{
     list-style: none;
 }
 #inicio header .contenido-header .logo{
-    color: #ff8f46;
+    color: #d81f1f;
     font-size: 22px;
 }
 #inicio header .contenido-header nav ul li{
@@ -57,11 +57,11 @@ html{
     margin: 0px 20px;
 }
 #inicio header .contenido-header nav ul li:hover i{
-    color: #ff8f46;
+    color: #d81f1f;
 }
 #inicio header .contenido-header .social a{
     display: inline-block;
-    background-color: #ff8f46;
+    background-color: #d81f1f;
     text-decoration: none;
     color: #fff;
     padding: 10px 20px;
@@ -102,7 +102,7 @@ html{
     margin-top: 20px;
     font-size: 20px;
     border:none;
-    background-color: #ff8f46;
+    background-color: #d81f1f;
     color: #fff;
     padding: 7px 25px;
     border-radius: 30px;
@@ -152,7 +152,7 @@ html{
     padding: 5px;
 }
 #sabores .fila .item:hover{
-    background-color:#ff8f46
+    background-color: #d81f1f
 }
 #sabores .fila .item .info{
     margin-left: 15px;
@@ -165,7 +165,7 @@ html{
     margin-top: 20px;
     font-size: 20px;
     border:none;
-    background-color: #ff8f46;
+    background-color: #d81f1f;
     color: #fff;
     padding: 7px 25px;
     border-radius: 30px;
@@ -201,7 +201,7 @@ html{
     width: 100%;
     bottom: -100%;
     padding: 10px;
-    background-color:#ff8f46;
+    background-color: #d81f1f;
     color: #fff;
     transition: .5s;
 }
@@ -215,7 +215,7 @@ html{
     margin-top: 20px;
     font-size: 20px;
     border:none;
-    background-color: #ff8f46;
+    background-color: #d81f1f;
     color: #fff;
     padding: 7px 25px;
     border-radius: 30px;
@@ -248,7 +248,7 @@ html{
     display: block;
     width: 100px;
     border-radius: 50%;
-    border: 2px solid #ff8f46   ;
+    border: 2px solid #d81f1f   ;
     margin-right: 30px;
 }
 .galeria-blog .gallery-cell h3{
@@ -265,7 +265,7 @@ html{
     margin-top: 20px;
     font-size: 20px;
     border:none;
-    background-color: #ff8f46;
+    background-color: #d81f1f;
     color: #fff;
     padding: 7px 25px;
     border-radius: 30px;
@@ -276,7 +276,7 @@ html{
 /* SECCION C O N T A C TO */
 /* ***************** */
 #contacto{
-    background-color: #ff8f46;
+    background-color: #d81f1f;
     padding: 50px 0;
 }
 #contacto .fila{
@@ -313,7 +313,7 @@ html{
     border-radius: 30px;
 }
 #contacto .enviar{
-    background-color: #f4721c;
+    background-color: #d81f1f;
     color: #fff;
     width: fit-content;
     margin-top: 15px;
